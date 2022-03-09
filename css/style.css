@@ -4,7 +4,7 @@
     font-family: 'Poppins', sans-serif;
 }
 #banner {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), #b37d4e), url(../images/banner.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.5), #d7cec7), url(../images/banner.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -68,7 +68,7 @@
     position: fixed;
     right: -250px;
     top: 0;
-    background: #b37d4e;
+    background: #76323f;
     z-index: 2;
     transition: 0.5s;
 }
@@ -83,7 +83,7 @@ nav ul li a {
 #menuBtn {
     width: 50px;
     height: 50px;
-    background: #b37d4e;
+    background: #76323f;
     text-align: center;
     position: fixed;
     right: 30px;
@@ -130,7 +130,7 @@ nav ul li a {
 .title-text p {
     margin: auto;
     font-size: 20px;
-    color: #b37d4e;
+    color: #76323f;
     font-weight: bold;
     position: relative;
     z-index: 1;
@@ -162,7 +162,7 @@ nav ul li a {
     text-align: left;
     margin-bottom: 10px;
     font-weight: 100;
-    color: #b37d4e;
+    color: #76323f;
 }
 .about-desct {
     display: flex;
@@ -175,8 +175,8 @@ nav ul li a {
     font-size: 30px;
     line-height: 50px;
     border-radius: 8px;
-    color: #b37d4e;
-    border: 1px solid #b37d4e;
+    color: #76323f;
+    border: 1px solid #76323f;
 }
 .about-text p {
     padding: 0 20px;
@@ -228,7 +228,7 @@ nav ul li a {
     top: 0;
     border-radius: 7px;
     cursor: pointer;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), #b37d4e);
+    background: linear-gradient(rgba(0, 0, 0, 0.5), #c09f80);
     opacity: 0;
     transition: 1s;
 }
@@ -291,7 +291,7 @@ hr {
     padding: 10px;
     margin-bottom: 30px;
     border-radius: 5px;
-    box-shadow: 0 10px 20px 3px #b37d4e;
+    box-shadow: 0 10px 20px 3px #c09f80;
     cursor: pointer;
     transition: transform 0.5s;
 }
@@ -314,7 +314,7 @@ hr {
     font-size: 20px;
 }
 .user-info small{
-    color: #b37d4e;
+    color: #c09f80;
 }
 .testimonial-cols:hover {
     transform: translateY(-7px);
@@ -355,7 +355,7 @@ hr {
 .footer-left .fa,
 .footer-right .fa {
     font-size: 20px;
-    color: #b37d4e;
+    color: #76323f;
     margin: 10px;
 }
 .social-media-icons {
@@ -366,8 +366,8 @@ hr {
     width: 40px;
     font-size: 20px;
     line-height: 40px;
-    border: 1px solid #b37d4e;
-    color: #b37d4e;
+    border: 1px solid #76323f;
+    color: #76323f;
     margin: 40px 5px 0;
     cursor: pointer;
     transition: 0.5s;
