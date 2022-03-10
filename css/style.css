@@ -340,7 +340,7 @@ hr {
 .footer-left,
 .footer-right {
     flex-basis: 25%;
-    padding: 10px;
+    padding: 5px;
     margin-bottom: 20px;
 }
 .footer-right {
@@ -356,7 +356,7 @@ hr {
 .footer-right .fa {
     font-size: 20px;
     color: #76323f;
-    margin: 10px;
+    margin: 5px;
 }
 .social-media-icons {
     text-align: center;
