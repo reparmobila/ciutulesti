@@ -270,7 +270,7 @@ hr {
         margin: 5px auto;
     }
     .single-service:hover .service-desct {
-        bottom: 25% !important;
+        bottom: 5% !important;
     }
 }
 /* testimonial */
